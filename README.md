@@ -1,16 +1,4 @@
-# soccer_app
+## Soccer Live Match Results Application
 
-A new Flutter project.
+### A real-time mobile app that provides live scores, match statistics, team line-ups, and key event notifications for soccer matches worldwide. Users can track live results, view upcoming fixtures, set alerts, and access highlights and replays for an interactive and seamless soccer experience.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
